@@ -1,13 +1,19 @@
 # Aurora Ecommerce Website Documentation
 
-##### MICROSERVICES - PRODUCTS,MERCHANTS,USERS,ORDERS,CART,SEARCH
+##### MICROSERVICES - 
+```
+PRODUCTS,MERCHANTS,USERS,ORDERS,CART,SEARCH
+```
 
-##### DATABASE - MongoDB
+##### DATABASE - 
+```
+MongoDB
+```
 
 ##### Other Configs
 
 ##### WORK FLOW
-
+```
 ![image](https://user-images.githubusercontent.com/82010731/215069721-a82c6201-ca6d-49ae-8b92-3f53e9a59ad9.png)
 
 1. The user can view the various products and the categories in the home page
@@ -21,3 +27,4 @@
 9. The user can view the products he placed in the cart both from the website as well as the mobile App
 10. Once the user buys a product he will be redirected to the checkout page
 11. after confirming and placing the order an email is sent to the registered mail id specifing the user's order details and the product quantity is reduced.
+```
