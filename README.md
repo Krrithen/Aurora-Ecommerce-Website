@@ -13,9 +13,9 @@ MongoDB
 ##### Other Configs
 
 ##### WORK FLOW
-```
-![image](https://user-images.githubusercontent.com/82010731/215069721-a82c6201-ca6d-49ae-8b92-3f53e9a59ad9.png)
 
+![image](https://user-images.githubusercontent.com/82010731/215069721-a82c6201-ca6d-49ae-8b92-3f53e9a59ad9.png)
+```
 1. The user can view the various products and the categories in the home page
 2. He can click on a specific product or the category and he is redirected to the target page he selects
 3. The user can also check the products by using search which is implemented using Solr
